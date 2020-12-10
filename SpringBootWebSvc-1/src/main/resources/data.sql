@@ -1,0 +1,10 @@
+Insert into User(user_Id,user_Name,user_Role,user_City,user_State,user_Country)  values (1, 'user1', 'SoftwareDevEngineer-1', 'Bengaluru', 'KA', 'India');
+Insert into User(user_Id,user_Name,user_Role,user_City,user_State,user_Country) values (2, 'Nishant', 'SoftwareDevEngineer-2', 'Noida', 'UP', 'India');
+Insert into User(user_Id,user_Name,user_Role,user_City,user_State,user_Country) values (3, 'user3', 'SoftwareQAEngineer-1', 'Bengaluru', 'KA', 'India');
+Insert into User(user_Id,user_Name,user_Role,user_City,user_State,user_Country) values (4, 'user4', 'SoftwareQAEngineer-2', 'Noida', 'UP', 'India');
+Insert into User(user_Id,user_Name,user_Role,user_City,user_State,user_Country) values (5, 'user5', 'SoftwareQAEngineer-2', 'Bengaluru', 'KA', 'India');
+Insert into User(user_Id,user_Name,user_Role,user_City,user_State,user_Country) values (6, 'user6', 'SoftwareDevConsultant-1', 'Bengaluru', 'KA', 'India');
+Insert into User(user_Id,user_Name,user_Role,user_City,user_State,user_Country) values (7, 'user7', 'SoftwareDevConsultant-1', 'Bengaluru', 'KA', 'India');
+Insert into User(user_Id,user_Name,user_Role,user_City,user_State,user_Country) values (8, 'user8', 'SoftwareDevConsultant-2', 'Bengaluru', 'KA', 'India');
+Insert into User(user_Id,user_Name,user_Role,user_City,user_State,user_Country) values (9, 'user9', 'SoftwareQAConsultant-1', 'Noida', 'UP', 'India');
+Insert into User(user_Id,user_Name,user_Role,user_City,user_State,user_Country) values (10, 'user10', 'SoftwareDevManager-1', 'Bengaluru', 'KA', 'India');
